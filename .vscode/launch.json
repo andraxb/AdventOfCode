@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "C#: AoC01 Debug",
+            "name": "C#: AoC02 Debug",
             "type": "dotnet",
             "request": "launch",
-            "projectPath": "${workspaceFolder}/2024/01/AoC01/AoC01.csproj"
+            "projectPath": "${workspaceFolder}/2024/02/AoC02/AoC02.csproj"
         }
 
     ]
